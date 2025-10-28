@@ -1,6 +1,7 @@
 /AW-NHS.Tests/bin
 /AW-NHS.Tests/obj
-/AW-NHS/bin
-/AW-NHS/obj
-/AW-NHS/.vs
 *.user
+/.vs
+/AW-NHS.API/.vs
+/AW-NHS.API/bin
+/AW-NHS.API/obj

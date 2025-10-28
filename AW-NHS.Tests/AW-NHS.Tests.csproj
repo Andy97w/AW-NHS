@@ -20,7 +20,7 @@
   </ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\AW-NHS\AW-NHS.API.csproj" />
+		<ProjectReference Include="..\AW-NHS.API\AW-NHS.API.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

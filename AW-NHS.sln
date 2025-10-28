@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AW-NHS.API", "AW-NHS.API\AW-NHS.API.csproj", "{03407656-760B-CA60-9665-E9FAFD4C5841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AW-NHS.Tests", "AW-NHS.Tests\AW-NHS.Tests.csproj", "{48B1AD29-C834-13BB-B0F9-68CA9105D516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03407656-760B-CA60-9665-E9FAFD4C5841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03407656-760B-CA60-9665-E9FAFD4C5841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03407656-760B-CA60-9665-E9FAFD4C5841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03407656-760B-CA60-9665-E9FAFD4C5841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B1AD29-C834-13BB-B0F9-68CA9105D516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B1AD29-C834-13BB-B0F9-68CA9105D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B1AD29-C834-13BB-B0F9-68CA9105D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B1AD29-C834-13BB-B0F9-68CA9105D516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4329E74-BE0F-4C8E-B6C7-8DBA477AB5B6}
+	EndGlobalSection
+EndGlobal
