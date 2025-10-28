@@ -1,0 +1,24 @@
+@AW_NHS_HostAddress = http://localhost:5250
+
+
+# Valid Request - Patient exists
+GET {{AW_NHS_HostAddress}}/api/patient/1
+
+Accept: application/json
+
+###
+
+# Valid Request - Patient does not exist
+GET {{AW_NHS_HostAddress}}/api/Patient/999
+
+Accept: application/json
+
+###
+
+
+# Invalid Request
+GET {{AW_NHS_HostAddress}}/api/Patient/A
+
+Accept: application/json
+
+###
